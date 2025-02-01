@@ -50,7 +50,7 @@ RESTful API server for the TrackFast expense tracking application with secure au
    MONGODB_URI=mongodb://localhost:27017/expense-tracker
    JWT_SECRET=your_jwt_secret
    REFRESH_TOKEN_SECRET=your_refresh_token_secret
-   FRONTEND_URL=http://localhost:3000
+   CLIENT_URL=http://localhost:3000
    ```
 
 4. **Start Server**
