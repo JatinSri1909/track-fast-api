@@ -1,0 +1,16 @@
+# Ignore all files in the logs directory
+logs/
+
+# Ignore all files in the node_modules directory
+node_modules/
+
+# Ignore all files in the .env file
+.env
+
+# Ignore all files in the .env.example file
+.env.example
+
+# Ignore all files in the .DS_Store file
+.DS_Store
+
+
